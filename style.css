@@ -1,0 +1,49 @@
+body{
+  background-color: black;
+  font-family: sans-serif;
+
+}
+
+
+h1 {
+  font-size: 3.5rem;
+  color: white;
+  position: absolute;
+  top: 20%;
+  left: 34%;
+}
+
+.parent {
+  color: white;
+  position: absolute;
+  top: 40%;
+  left: 40%;
+}
+
+.parent button :hover {
+  color: blue;
+}
+
+#value {
+  font-size: 3rem;
+  text-align: center;
+}
+
+#insreaseBtn {
+  margin: 12px;
+  padding: 5px;
+  font-size: 1rem;
+}
+
+
+#decreaseBtn {
+  margin: 12px;
+  padding: 5px;
+  font-size: 1rem;
+}
+
+#reset {
+  margin: 12px;
+  padding: 5px;
+  font-size: 1rem;
+}
